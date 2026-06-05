@@ -1,0 +1,50 @@
+[
+  {
+    "partido": "Canada vs Equipo por definir",
+    "ciudad": "Toronto",
+    "estadio": "BMO Field",
+    "horaLocal": "20:00",
+    "horaPeninsular": "02:00",
+    "horaCanarias": "01:00"
+  },
+  {
+    "partido": "Mexico vs Equipo por definir",
+    "ciudad": "Ciudad de Mexico",
+    "estadio": "Estadio Azteca",
+    "horaLocal": "20:00",
+    "horaPeninsular": "04:00",
+    "horaCanarias": "03:00"
+  },
+  {
+    "partido": "Estados Unidos vs Equipo por definir",
+    "ciudad": "Los Angeles",
+    "estadio": "SoFi Stadium",
+    "horaLocal": "17:00",
+    "horaPeninsular": "02:00",
+    "horaCanarias": "01:00"
+  },
+  {
+    "partido": "Espana vs Equipo por definir",
+    "ciudad": "Nueva York / Nueva Jersey",
+    "estadio": "MetLife Stadium",
+    "horaLocal": "15:00",
+    "horaPeninsular": "21:00",
+    "horaCanarias": "20:00"
+  },
+  {
+    "partido": "Argentina vs Equipo por definir",
+    "ciudad": "Miami",
+    "estadio": "Hard Rock Stadium",
+    "horaLocal": "18:00",
+    "horaPeninsular": "00:00",
+    "horaCanarias": "23:00"
+  },
+  {
+    "partido": "Brasil vs Equipo por definir",
+    "ciudad": "Dallas",
+    "estadio": "AT&T Stadium",
+    "horaLocal": "19:00",
+    "horaPeninsular": "02:00",
+    "horaCanarias": "01:00"
+  }
+]
